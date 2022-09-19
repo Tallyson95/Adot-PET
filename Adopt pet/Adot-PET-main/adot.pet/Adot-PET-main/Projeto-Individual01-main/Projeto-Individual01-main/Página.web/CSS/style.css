@@ -1,0 +1,112 @@
+
+body{
+    background-color: white;
+    background:url(../CSS/adote.aqui.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+
+}
+h1{
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    padding: 0%;
+    background-color: darkgoldenrod;
+
+
+}
+
+li{
+    color: black;
+    padding-right: 70px;
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    width: 80%;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+
+
+}
+
+.content h2{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    background: white;
+}
+
+.mainav{
+    color: rebeccapurple;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+
+ul li a{
+    background-color: rgb(78, 76, 76);
+    color: darkgoldenrod;
+    padding-right: 30%;
+    padding-left: 5%;
+    width: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+}
+    
+
+
+
+
+.content{
+    text-align: justify;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+
+.content{
+    width: 80%;
+    float: left;
+    background-color: white;
+    font-size: 90%;
+    margin-left: 10%;
+}
+
+.content p{
+    text-align: justify;
+    
+}
+
+.mainleft{
+    float:right;
+    width: 20%;
+    
+   
+}
+
+
+
+.footer{
+    clear: both;
+    font-size: 14px;
+    color:white;
+    background-color: rgb(78, 76, 76);
+}
